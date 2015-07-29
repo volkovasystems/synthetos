@@ -1,0 +1,2 @@
+# synthetos
+Facilitate method composition.
