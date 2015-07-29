@@ -1,0 +1,24 @@
+{
+  "name": "synthetos",
+  "version": "0.0.0",
+  "description": "Facilitate method composition.",
+  "main": "synthetos.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/volkovasystems/synthetos.git"
+  },
+  "keywords": [
+    "composite",
+    "composition",
+    "mixins"
+  ],
+  "author": "Richeve S. Bebedor <richeve.bebedor@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/volkovasystems/synthetos/issues"
+  },
+  "homepage": "https://github.com/volkovasystems/synthetos#readme"
+}
